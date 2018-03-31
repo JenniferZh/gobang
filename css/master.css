@@ -1,0 +1,37 @@
+#board {
+    border: 1px solid black;
+    width: 32rem;
+    height: 32rem;
+    background: url(../img/board.jpg);
+    background-size: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.piece {
+  width: 1.7rem;
+  height: 1.7rem;
+  background-color: white;
+  border-radius: 0.85rem;
+  position: absolute;
+}
+
+.blackpiece {
+  width: 1.7rem;
+  height: 1.7rem;
+  background-color: black;
+  border-radius: 0.85rem;
+  position: absolute;
+}
+
+#btngroup {
+  text-align: center;
+}
+
+#btngroup {
+
+}
